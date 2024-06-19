@@ -1,0 +1,153 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+body{
+    background-color: #F1F1F1;
+}  
+
+header {
+    background:url(imagens/principal1\ \(2\).jpg);
+    height: 600px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.lifestyle-imagem {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+    padding: 0; 
+  }
+  
+  .content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .lifestyle-imagens {
+    max-width: 50%; 
+    height: auto;
+    margin-left: 0; 
+  }
+  
+  .text-lifestyle{
+    max-width: 20%; 
+    text-align: left;
+    margin-right: 150px;
+   word-spacing: 2px;
+   line-height: 17px;
+  }
+  
+  .text-lifestyle{
+    h2{
+        margin-bottom: 20px;
+        font-size: 36px;
+        color:#D1A76B;
+
+    }
+
+    p{
+        margin-bottom: 30px;
+    }
+
+    h4{
+        margin-bottom: 40px;
+    }
+}
+ 
+
+.image-center {
+    text-align: center; 
+}
+
+.center-imagem {
+    max-width: 100%; 
+    height: auto;
+}
+
+/* Estilos para a seção de serviços */
+
+.services-section h2 {
+    margin-top: 0; /* Remove a margem superior do título */
+}
+
+.services-section p {
+    margin-bottom: 20px; /* Espaçamento abaixo do parágrafo */
+}
+
+.services-section button {
+    margin-right: 10px; 
+}
+
+.services-section h4 {
+    font-style: italic; 
+    margin-top: 20px; 
+}
+
+.service-imagens {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+    padding: 0; 
+  }
+  
+  
+  
+  .service-imagens {
+    max-width: 50%; 
+    height: auto;
+    margin-left: 0; 
+  }
+
+  .btn{
+    background-color: #D1A76B;
+    color: #F1F1F1;
+    border-color: #D1A76B;
+    border-radius: 0;
+    
+  }
+
+  .btn:hover{
+    background-color: #ffffff;
+    color: #D1A76B;
+    border-color: #D1A76B;
+    
+   
+  }
+
+  .text-service {
+    max-width: 20%; 
+    text-align: left;
+    margin-right: 150px;
+   word-spacing: 2px;
+   line-height: 17px;
+  }
+  
+  .text-service{
+    h2{
+        margin-bottom: 20px;
+        font-size: 36px;
+        color:#D1A76B;
+
+    }
+
+    p{
+        margin-bottom: 30px;
+    }
+
+    h4{
+        margin-bottom: 40px;
+    }
+}
