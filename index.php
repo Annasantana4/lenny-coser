@@ -3,8 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-    <link rel="stylesheet" href="./index.css">
+  
+   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+
+   <link rel="stylesheet" href="./inicial.css">
+
   
     <title>Lenny Coser</title>
 </head>
@@ -45,23 +48,9 @@
     </header>
 
     
-  <div class="lifestyle-imagem">
-    <div class="content">
-      <img class="lifestyle-imagens" src="./imagens/foto3.jpg" alt="Imagem de casal em preto e branco">
-      <div class="text-lifestyle">
-        <h2>FOTOGRAFIA LIFESTYLE</h2>
-        <p>A fotografia lifestyle tem como intenção principal registrar o que tem de mais verdadeiro numa cena.
-          Existe sim uma “direção de modelos”, uma escolha da locação, ver a posição pra ficar melhor com a luz, mas a gente quer capturar sentimentos e expressões que são típicos daquela pessoa que está sendo fotografada, algo que seja bem o jeitinho da família que está ali sendo retratada.</p>
-        <button type="button" class="btn btn-outline-primary">GALERIAS</button> 
-        <button type="button" class="btn btn-outline-primary">CONTACTAR</button>
-        <h4>“A MELHOR COISA DE UMA IMAGEM É QUE NUNCA MUDA, MESMO QUANDO AS PESSOAS NELA MUDAM."</h4>  
-      </div>
-    </div>
-  </div>
-  
-<div class="image-center">
-    <img class="center-imagem" src="./imagens/mae-bebe.jpg" alt="Imagem mãe com bebe">
-</div>
+
+
+
 
 </body>
 </html>
