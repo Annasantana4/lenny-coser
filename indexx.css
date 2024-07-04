@@ -179,4 +179,24 @@ body{
     font-size: 30px;
 }
 
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: #5E5E5E; /* Você pode ajustar a cor de fundo conforme necessário */
+}
 
+.img-footer {
+    max-width: 300px; /* Ajuste o tamanho da imagem conforme necessário */
+    height: auto;
+    margin-bottom: 10px;
+}
+
+footer p {
+    margin: 0;
+    text-align: center;
+    font-size: 14px; 
+    color: #ffffff;
+}

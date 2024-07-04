@@ -81,6 +81,13 @@ nav{
             font-size:40px;
             font-weight: 700;
         }
+
+        label{
+            color: #D1A76B;
+            font-family: "Cormorant", serif; 
+            font-size: 16px;
+           
+        }
         
         .form-control {
             border-radius: 0;

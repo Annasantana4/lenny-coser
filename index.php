@@ -6,7 +6,7 @@
   
    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 
-   <link rel="stylesheet" href="./index.css">
+   <link rel="stylesheet" href="./indexx.css">
 
   
     <title>Lenny Coser</title>
@@ -100,6 +100,10 @@
       <p class="texto-adicional">"A MELHOR COISA DE UMA IMAGEM É QUE NUNCA MUDA, MESMO QUANDO AS PESSOAS NELA MUDAM"</p>
     </div>
   </div>
+<footer>
+  <img class="img-footer" src="./imagens/logo lenny.png" alt="">
+  <p>LENNY COSER FOTOGRAFIA  //  FEITO POR ANNA SANTANA</p>
+</footer>
         
 
   
