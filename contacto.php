@@ -19,8 +19,7 @@
 }
 
         body {
-            padding: 50px;
-            color: #D1A76B;
+           
             background: url('./imagens/imagen-contac.jpg') no-repeat center center fixed; 
             background-size: cover;
         }
@@ -40,6 +39,7 @@
 .navbar a{
     color: #D1A76B;
     font-size: 20px;
+   
     
     
 }
@@ -47,6 +47,12 @@
 .navbar .nav-link.active {
     color: #D1A76B;
 
+}
+
+nav{
+    margin: 0px 0px 20px 0px;
+    padding: 0px 0px 0px 0px;
+   
 }
 
 
