@@ -133,7 +133,7 @@ nav{
                         <a class="nav-link active" aria-current="page" href="#">Sobre</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">Portfólio</a>
+                        <a class="nav-link active" aria-current="page" href="portifolio.php">Portfólio</a>
                       </li>
                       <li class="nav-item">
                         <a class="nav-link active" aria-current="page" href="#">Serviços</a>
